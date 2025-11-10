@@ -1,9 +1,7 @@
-# Información general del sitio
 title: "AllSpec"
 description: "Plataforma integral para el tratamiento de datos espectroscópicos (UV-Vis, IR, DRX, XPS, electroquímicos y fluorescencia)."
 author: "Guillermo Reyna Rodríguez"
 
-# Tema remoto y compatibilidad
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -12,7 +10,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Navegación principal
 nav:
   - title: "Inicio"
     url: /
@@ -25,10 +22,8 @@ nav:
   - title: "Contacto"
     url: /contact/
 
-# Logo del proyecto
 logo: "/assets/images/logo.png"
 
-# Autor y redes
 author:
   name: "Guillermo Reyna Rodríguez"
   bio: "Licenciado en Química especializado en ciencia de los nanomateriales y espectroscopía."
@@ -40,7 +35,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/GuillermoReyna/"
 
-# Footer personalizado
 footer:
   links:
     - label: "Manual de usuario"
@@ -48,3 +42,4 @@ footer:
     - label: "Repositorio"
       url: "https://github.com/Guillermo-RR/AllSpec"
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
+
