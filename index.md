@@ -17,6 +17,13 @@ Cada módulo está encapsulado en una clase independiente, siguiendo una arquite
 La interfaz gráfica está implementada con **Tkinter**, garantizando compatibilidad multiplataforma y bajo consumo de recursos.
 
 ---
+## La interfaz
+
+<p align="center">
+  <img src="assets/images/interfaz.png" alt="Interfaz de AllSpec" width="700">
+</p>
+
+---
 
 ## 🎯 Objetivos
 
