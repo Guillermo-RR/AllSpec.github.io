@@ -3,9 +3,6 @@ layout: single
 title: "AllSpec"
 permalink: /
 classes: wide
-author_profile: false
-header:
-  show_title: false
 ---
 
 
@@ -16,9 +13,10 @@ header:
     <img src="assets/images/logo.png" alt="AllSpec Logo" width="250">
   </div>
   <div style="flex:1;text-align:right;min-width:200px;">
-    <a href="assets/downloads/AllSpec.pyw" download>
-      <button class="download-btn">Descargar AllSpec.pyw</button>
+    <a href="assets/downloads/AllSpec.pyw" class="download-btn" download>
+      Descargar AllSpec.pyw
     </a>
+
   </div>
 </div>
 
