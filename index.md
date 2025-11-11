@@ -153,4 +153,15 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)  
 - [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec.github.io/)
 
+---
+
+## ⚖️ Licencia
+
+AllSpec © 2025 **Guillermo Reyna Rodríguez**  
+Distribuido bajo la [Licencia MIT](https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE).  
+El software puede ser utilizado, modificado y distribuido libremente, siempre que se reconozca la autoría original.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="Licencia MIT">
+</p>
 
