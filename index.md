@@ -3,24 +3,23 @@ layout: single
 title: "AllSpec"
 permalink: /
 classes: wide
+author_profile: false
+header:
+  show_title: false
+---
+
+
 ---
 
 <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;">
-  
-  <!-- Logo a la izquierda -->
   <div style="flex:1;min-width:200px;">
-    <img src="assets/images/logo.png" alt="AllSpec Logo" width="220">
+    <img src="assets/images/logo.png" alt="AllSpec Logo" width="250">
   </div>
-  
-  <!-- Botón de descarga a la derecha -->
   <div style="flex:1;text-align:right;min-width:200px;">
     <a href="assets/downloads/AllSpec.pyw" download>
-      <button style="background-color:#800020;color:white;padding:12px 25px;border:none;border-radius:5px;font-size:16px;cursor:pointer;">
-        Descargar AllSpec.pyw
-      </button>
+      <button class="download-btn">Descargar AllSpec.pyw</button>
     </a>
   </div>
-
 </div>
 
 ---
