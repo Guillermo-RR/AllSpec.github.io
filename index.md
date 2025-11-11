@@ -140,14 +140,17 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 
 ## Ejemplos
 
+
+Las siguientes imágenes muestran algunos resultados generados directamente por los distintos módulos de AllSpec, ilustrando el cómo se visualizan los datos espectroscópicos. 
+
 <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin:20px 0;">
-  <img src="assets/images/uv.png" alt="Interfaz módulo UV-Vis" style="width:45%;min-width:300px;border-radius:10px;">
-  <img src="assets/images/ir.png" alt="Interfaz módulo IR" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/uv.png" alt="UV-Vis" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/ir.png" alt="IR" style="width:45%;min-width:300px;border-radius:10px;">
 </div>
 
 <div style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin:20px 0;">
-  <img src="assets/images/drx.png" alt="Interfaz módulo DRX" style="width:45%;min-width:300px;border-radius:10px;">
-  <img src="assets/images/cv.jpg" alt="Interfaz módulo Voltamperometría" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/drx.png" alt="DRX" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/cv.jpg" alt="Voltamperometría" style="width:45%;min-width:300px;border-radius:10px;">
 </div>
 
 ---
