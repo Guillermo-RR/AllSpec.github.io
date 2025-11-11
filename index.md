@@ -5,10 +5,25 @@ permalink: /
 classes: wide
 ---
 
-<p align="center">
-  <img src="assets/images/logo.png" alt="AllSpec Logo" width="220">
-</p>
+<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;">
+  
+  <!-- Logo a la izquierda -->
+  <div style="flex:1;min-width:200px;">
+    <img src="assets/images/logo.png" alt="AllSpec Logo" width="220">
+  </div>
+  
+  <!-- Botón de descarga a la derecha -->
+  <div style="flex:1;text-align:right;min-width:200px;">
+    <a href="assets/downloads/AllSpec.pyw" download>
+      <button style="background-color:#800020;color:white;padding:12px 25px;border:none;border-radius:5px;font-size:16px;cursor:pointer;">
+        Descargar AllSpec.pyw
+      </button>
+    </a>
+  </div>
 
+</div>
+
+---
 # 🧪 AllSpec
 
 **AllSpec** es una plataforma desarrollada en **Python** que unifica en una sola interfaz gráfica diversos módulos para el procesamiento y visualización de datos experimentales de técnicas comunes en laboratorios de química, ya sean de docencia o investigación.  
@@ -136,15 +151,6 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 
 - [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)  
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)  
-- [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec/)
+- [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec.github.io/)
 
-## 📥 Descargar AllSpec
-
-<p align="center">
-  <a href="assets/downloads/AllSpec.pyw" download>
-    <button style="background-color:#800020;color:white;padding:12px 25px;border:none;border-radius:5px;font-size:16px;">
-      Descargar AllSpec.pyw
-    </button>
-  </a>
-</p>
 
