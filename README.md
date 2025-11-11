@@ -76,6 +76,8 @@ Licenciado en Química especializado en ciencia de los nanomateriales.
 Desarrollador del proyecto AllSpec.
 
 
-📜 Licencia
-Este proyecto está disponible bajo la Licencia MIT.
-Consulta el archivo LICENSE para más información.
+## ⚖️ Licencia
+
+**AllSpec** © 2025 Guillermo Reyna Rodríguez.  
+Distribuido bajo la [Licencia MIT](LICENSE).  
+El software puede ser utilizado, modificado y distribuido libremente con reconocimiento al autor original.
