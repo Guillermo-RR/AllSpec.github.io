@@ -3,8 +3,21 @@ layout: single
 title: "AllSpec"
 permalink: /
 classes: wide
+author_profile: false
+header:
+  overlay_image: false
+  show_overlay_excerpt: false
+  show_title: false
+  show_logo: false
 ---
----
+
+<style>
+/* Oculta completamente el header del tema */
+.page__header {
+  display: none !important;
+}
+</style>
+
 <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-bottom:20px;">
   <div style="flex:1;min-width:200px;">
     <img src="assets/images/logo.png" alt="AllSpec Logo" width="250">
@@ -17,6 +30,7 @@ classes: wide
 </div>
 
 ---
+
 
 **AllSpec** es una plataforma desarrollada en **Python** que unifica en una sola interfaz gráfica diversos módulos para el procesamiento y visualización de datos experimentales de técnicas comunes en laboratorios de química, ya sean de docencia o investigación.  
 
