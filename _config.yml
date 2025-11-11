@@ -1,5 +1,5 @@
 title: "AllSpec"
-description: "Plataforma integral para el tratamiento de datos espectroscópicos (UV-Vis, IR, DRX, XPS, electroquímicos y fluorescencia)."
+description: "Plataforma integral para el tratamiento de datos espectroscópicos."
 author: "Guillermo Reyna Rodríguez"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
