@@ -6,7 +6,7 @@ classes: wide
 ---
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="AllSpec Logo" width="120">
+  <img src="assets/images/logo.png" alt="AllSpec Logo" width="220">
 </p>
 
 # 🧪 AllSpec
@@ -114,12 +114,20 @@ La interfaz gráfica está implementada con **Tkinter**, garantizando compatibil
 AllSpec es una herramienta robusta y gratuita que **reduce significativamente el tiempo en tareas mecánicas del procesamiento experimental**, promoviendo la **reproducibilidad y trazabilidad**.  
 Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y estudiantes, eliminando la dependencia de software comercial.
 
+
 ---
 
-## 🖼️ Captura de la interfaz
+
+## Ejemplos
 
 <p align="center">
-  <img src="assets/images/captura_uvvis.png" alt="Interfaz de AllSpec" width="700">
+  <img src="assets/images/uv.png" alt="Interfaz módulo UV-Vis" width="400" style="margin:10px;">
+  <img src="assets/images/ir.png" alt="Interfaz módulo IR" width="400" style="margin:10px;">
+</p>
+
+<p align="center">
+  <img src="assets/images/drx.png" alt="Interfaz módulo DRX" width="400" style="margin:10px;">
+  <img src="assets/images/cv.jpg" alt="Interfaz módulo Voltamperometría" width="400" style="margin:10px;">
 </p>
 
 ---
