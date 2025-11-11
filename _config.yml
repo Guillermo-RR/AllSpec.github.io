@@ -45,7 +45,6 @@ footer:
       url: "https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE"
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
 
-
 # Configuración de layout amplio para todo el sitio
 defaults:
   - scope:
@@ -54,3 +53,10 @@ defaults:
     values:
       layout: single
       classes: wide
+
+# === Importar CSS personalizado ===
+sass:
+  style: compressed
+
+include:
+  - assets/css
