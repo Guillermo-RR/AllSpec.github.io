@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "AllSpec"
 permalink: /
 classes: wide
 ---
@@ -24,7 +24,6 @@ classes: wide
 </div>
 
 ---
-# 🧪 AllSpec
 
 **AllSpec** es una plataforma desarrollada en **Python** que unifica en una sola interfaz gráfica diversos módulos para el procesamiento y visualización de datos experimentales de técnicas comunes en laboratorios de química, ya sean de docencia o investigación.  
 
