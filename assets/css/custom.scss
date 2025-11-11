@@ -18,19 +18,21 @@
 /* ---------------------------
    Botón de descarga guinda
 --------------------------- */
-button.download-btn {
+.download-btn {
   background-color: #800020;
-  color: white;
+  color: white !important;
   padding: 12px 25px;
   border: none;
   border-radius: 5px;
   font-size: 16px;
   cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
 }
-button.download-btn:hover {
+.download-btn:hover {
   background-color: #a00030;
 }
-
 /* ---------------------------
    Ajustes generales de contenido
 --------------------------- */
