@@ -140,9 +140,9 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 
 ## 🔗 Recursos
 
-- [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)  
+- [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)
+- [Guía de instalación (PDF)](assets/docs/Instalacion.pdf)  
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)  
-- [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec.github.io/)
 
 ---
 
