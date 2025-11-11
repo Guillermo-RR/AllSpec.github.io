@@ -124,18 +124,17 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 
 ---
 
-
 ## Ejemplos
 
-<p align="center">
-  <img src="assets/images/uv.png" alt="Interfaz módulo UV-Vis" width="400" style="margin:10px;">
-  <img src="assets/images/ir.png" alt="Interfaz módulo IR" width="400" style="margin:10px;">
-</p>
+<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin:20px 0;">
+  <img src="assets/images/uv.png" alt="Interfaz módulo UV-Vis" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/ir.png" alt="Interfaz módulo IR" style="width:45%;min-width:300px;border-radius:10px;">
+</div>
 
-<p align="center">
-  <img src="assets/images/drx.png" alt="Interfaz módulo DRX" width="400" style="margin:10px;">
-  <img src="assets/images/cv.jpg" alt="Interfaz módulo Voltamperometría" width="400" style="margin:10px;">
-</p>
+<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin:20px 0;">
+  <img src="assets/images/drx.png" alt="Interfaz módulo DRX" style="width:45%;min-width:300px;border-radius:10px;">
+  <img src="assets/images/cv.jpg" alt="Interfaz módulo Voltamperometría" style="width:45%;min-width:300px;border-radius:10px;">
+</div>
 
 ---
 
