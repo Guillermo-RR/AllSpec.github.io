@@ -41,7 +41,10 @@ footer:
       url: "/assets/docs/Manual_AllSpec.pdf"
     - label: "Repositorio"
       url: "https://github.com/Guillermo-RR/AllSpec"
+    - label: "Licencia MIT"
+      url: "https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE"
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
+
 
 # Configuración de layout amplio para todo el sitio
 defaults:
