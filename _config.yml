@@ -32,16 +32,16 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
+    - label: "GitHub "
       icon: "fab fa-github"
       url: "https://github.com/Guillermo-RR"
-    - label: "LinkedIn"
+    - label: "LinkedIn "
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/guillermo-reyna-rodriguez-734403390/"
-    - label: "ResearchGate"
+    - label: "ResearchGate "
       icon: "ai ai-researchgate"
       url: "https://www.researchgate.net/profile/Guillermo-Reyna-Rodriguez"
-    - label: "Licencia MIT"
+    - label: "Licencia MIT "
       url: "https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE"
 
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
