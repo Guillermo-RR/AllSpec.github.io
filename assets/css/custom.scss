@@ -1,7 +1,36 @@
+// Barra superior guinda
+.site-header {
+  background-color: #800020 !important;
+}
+.site-header a {
+  color: #ffffff !important;
+}
+.site-header a:hover {
+  color: #ffcccc !important;
+}
+
+// Botón de descarga guinda
+button.download-btn {
+  background-color: #800020;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+button.download-btn:hover {
+  background-color: #a00030;
+}
+
+// -------------------------------------------
+// Ajustes generales de contenido y estilo
+// -------------------------------------------
+
 // Aumentar ancho máximo del contenido
 .page__content,
 .page__inner-wrap {
-  max-width: 1200px !important;  // Mantener legible
+  max-width: 1200px !important;
   margin: 0 auto;
 }
 
@@ -17,12 +46,12 @@
   max-height: 90px !important;
 }
 
-// Opcional: mejorar legibilidad de títulos
+// Mejorar legibilidad de títulos
 h1, h2, h3 {
   line-height: 1.3;
 }
 
-// Centrar imágenes de ejemplo
+// Centrar imágenes
 img {
   display: block;
   margin-left: auto;
@@ -30,3 +59,4 @@ img {
   max-width: 100%;
   height: auto;
 }
+
