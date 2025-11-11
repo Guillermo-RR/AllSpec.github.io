@@ -112,5 +112,14 @@ blockquote {
 .page__title {
   display: none !important;
 }
+.btn--maroon {
+  background-color: #800020;
+  color: #fff !important;
+  border-radius: 6px;
+  padding: 10px 20px;
+}
+.btn--maroon:hover {
+  background-color: #a00030;
+}
 
 
