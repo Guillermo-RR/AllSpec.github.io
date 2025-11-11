@@ -123,3 +123,13 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)  
 - [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec/)
 
+## 📥 Descargar AllSpec
+
+<p align="center">
+  <a href="assets/downloads/AllSpec.pyw" download>
+    <button style="background-color:#800020;color:white;padding:12px 25px;border:none;border-radius:5px;font-size:16px;">
+      Descargar AllSpec.pyw
+    </button>
+  </a>
+</p>
+
