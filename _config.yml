@@ -28,21 +28,22 @@ author:
   name: "Guillermo Reyna Rodríguez"
   bio: "Licenciado en Química especializado en ciencia de los nanomateriales y espectroscopía."
   links:
+
+
+footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Guillermo-RR"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/GuillermoReyna/"
-
-footer:
-  links:
-    - label: "Manual de usuario"
-      url: "/assets/docs/Manual_AllSpec.pdf"
-    - label: "Repositorio"
-      url: "https://github.com/Guillermo-RR/AllSpec"
+      url: "https://www.linkedin.com/in/guillermo-reyna-rodriguez-734403390/"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Guillermo-Reyna-Rodriguez"
     - label: "Licencia MIT"
       url: "https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE"
+
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
 
 # Configuración de layout amplio para todo el sitio
