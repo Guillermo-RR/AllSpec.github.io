@@ -3,23 +3,17 @@ layout: single
 title: "AllSpec"
 permalink: /
 classes: wide
----
-
-
----
-
-<div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;">
-  <div style="flex:1;min-width:200px;">
-    <img src="assets/images/logo.png" alt="AllSpec Logo" width="250">
-  </div>
-  <div style="flex:1;text-align:right;min-width:200px;">
-    <a href="assets/downloads/AllSpec.pyw" class="download-btn" download>
-      Descargar AllSpec.pyw
-    </a>
-
-  </div>
-</div>
-
+author_profile: false
+header:
+  overlay_color: "#ffffff"
+  overlay_filter: "0.0"
+  overlay_image: "assets/images/logo.png"
+  caption: " "
+  actions:
+    - label: "⬇️ Descargar AllSpec.pyw"
+      url: "assets/downloads/AllSpec.pyw"
+      btn_class: "btn--maroon"
+excerpt: "Plataforma integral para el tratamiento de datos espectroscópicos (UV-Vis, IR, DRX, XPS, electroquímicos y fluorescencia)."
 ---
 
 **AllSpec** es una plataforma desarrollada en **Python** que unifica en una sola interfaz gráfica diversos módulos para el procesamiento y visualización de datos experimentales de técnicas comunes en laboratorios de química, ya sean de docencia o investigación.  
