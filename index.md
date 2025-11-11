@@ -1,10 +1,9 @@
-
 ---
 layout: single
 title: "AllSpec"
 permalink: /
 classes: wide
-author_profile: false
+---
 ---
 <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-bottom:20px;">
   <div style="flex:1;min-width:200px;">
@@ -147,6 +146,29 @@ Su enfoque **modular y educativo** la hace ideal para laboratorios académicos y
 - [Sitio web GitHub Pages](https://guillermo-rr.github.io/AllSpec.github.io/)
 
 ---
+
+
+## 🤝 Contribuye al desarrollo de AllSpec
+
+AllSpec es un proyecto de **código abierto**, en constante evolución y mejora.  
+Invitamos a cualquier persona interesada en la **espectroscopía**, **química computacional** o **desarrollo en Python** a participar en su crecimiento.
+
+Puedes contribuir de distintas formas:
+
+- 💡 Proponiendo nuevas funciones o módulos experimentales.  
+- 🧩 Reportando errores o comportamientos inesperados.  
+- 🧠 Mejorando la documentación o el rendimiento del código.  
+- 🎨 Aportando ideas de diseño para la interfaz gráfica.  
+
+Toda contribución será debidamente acreditada en el repositorio y en futuras versiones del software.  
+Si deseas participar, puedes hacerlo directamente desde el repositorio oficial:
+
+<p align="center">
+  <a href="https://github.com/Guillermo-RR/AllSpec" class="download-btn">Ir al repositorio en GitHub</a>
+</p>
+
+---
+
 
 ## ⚖️ Licencia
 
