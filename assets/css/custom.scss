@@ -1,4 +1,10 @@
-// Barra superior guinda
+/* ======================================================
+   ESTILO PERSONALIZADO PARA AllSpec - Guillermo Reyna Rodríguez
+   ====================================================== */
+
+/* ---------------------------
+   Barra superior guinda
+--------------------------- */
 .site-header {
   background-color: #800020 !important;
 }
@@ -9,7 +15,9 @@
   color: #ffcccc !important;
 }
 
-// Botón de descarga guinda
+/* ---------------------------
+   Botón de descarga guinda
+--------------------------- */
 button.download-btn {
   background-color: #800020;
   color: white;
@@ -23,35 +31,36 @@ button.download-btn:hover {
   background-color: #a00030;
 }
 
-// -------------------------------------------
-// Ajustes generales de contenido y estilo
-// -------------------------------------------
-
-// Aumentar ancho máximo del contenido
+/* ---------------------------
+   Ajustes generales de contenido
+--------------------------- */
 .page__content,
 .page__inner-wrap {
   max-width: 1200px !important;
   margin: 0 auto;
+  text-align: justify;      /* Texto justificado */
 }
 
-// Ajustar encabezado y footer
+/* Encabezado y pie */
 .site-header,
 .site-footer {
   max-width: 1200px !important;
   margin: 0 auto;
+  text-align: left;         /* Alineación izquierda para los menús */
 }
 
-// Ajustar tamaño del logo
+/* Tamaño del logo */
 .site-logo img {
   max-height: 90px !important;
 }
 
-// Mejorar legibilidad de títulos
+/* Mejorar legibilidad de títulos */
 h1, h2, h3 {
   line-height: 1.3;
+  text-align: left;         /* Títulos alineados a la izquierda */
 }
 
-// Centrar imágenes
+/* Centrar imágenes (sin afectar texto) */
 img {
   display: block;
   margin-left: auto;
@@ -59,4 +68,38 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/* Tablas y listas más limpias */
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 90%;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #800020;
+  color: white;
+}
+
+/* Citas */
+blockquote {
+  border-left: 5px solid #800020;
+  padding-left: 15px;
+  color: #444;
+  font-style: italic;
+}
+
+/* Enlaces dentro del contenido */
+.page__content a {
+  color: #800020;
+  text-decoration: none;
+}
+.page__content a:hover {
+  text-decoration: underline;
+}
+
 
