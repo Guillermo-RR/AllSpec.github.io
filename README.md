@@ -13,7 +13,12 @@ Permite procesar, visualizar y estandarizar un formato de salida de espectros pr
 - **Difracción de Rayos X (DRX)**   
 - **Fluorescencia**  
 - **Técnicas electroquímicas** (voltamperometría, cronamperometría)  
+---
+## La interfaz
 
+<p align="center">
+  <img src="assets/images/interfaz.png" alt="Interfaz de AllSpec" width="700">
+</p>
 
 ---
 
