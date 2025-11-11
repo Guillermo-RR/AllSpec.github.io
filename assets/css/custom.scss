@@ -108,5 +108,9 @@ blockquote {
 .page__content a:hover {
   text-decoration: underline;
 }
+/* Ocultar título duplicado en la página principal */
+.page__title {
+  display: none !important;
+}
 
 
