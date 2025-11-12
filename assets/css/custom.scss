@@ -6,6 +6,25 @@
    ====================================================== */
 
 /* ---------------------------
+   Importar tipografías modernas
+--------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto:wght@400;500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #800020;
+  line-height: 1.3;
+}
+
+/* ---------------------------
    Barra superior guinda
 --------------------------- */
 .site-header {
@@ -28,6 +47,7 @@
   border: none;
   border-radius: 5px;
   font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
   cursor: pointer;
   display: inline-block;
   text-decoration: none;
@@ -46,6 +66,7 @@
   max-width: 1200px !important;
   margin: 0 auto;
   text-align: justify !important;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Encabezado y pie */
@@ -59,12 +80,6 @@
 /* Tamaño del logo */
 .site-logo img {
   max-height: 90px !important;
-}
-
-/* Mejorar legibilidad de títulos */
-h1, h2, h3 {
-  line-height: 1.3;
-  text-align: left !important;
 }
 
 /* Centrar imágenes (sin afectar texto) */
@@ -81,6 +96,7 @@ table {
   margin: 20px auto;
   border-collapse: collapse;
   width: 90%;
+  font-family: 'Roboto', sans-serif;
 }
 th, td {
   border: 1px solid #ddd;
@@ -98,6 +114,7 @@ blockquote {
   padding-left: 15px;
   color: #444;
   font-style: italic;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Enlaces dentro del contenido */
@@ -108,23 +125,25 @@ blockquote {
 .page__content a:hover {
   text-decoration: underline;
 }
-/* Ocultar título duplicado en la página principal */
-.page__title {
-  display: none !important;
-}
+
+/* Botones adicionales */
 .btn--maroon {
   background-color: #800020;
   color: #fff !important;
   border-radius: 6px;
   padding: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn--maroon:hover {
   background-color: #a00030;
 }
+
+/* Espaciado de contenido */
 .page__content {
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
+
 /* Ocultar por completo la barra superior del tema */
 .site-header {
   display: none !important;
