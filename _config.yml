@@ -1,6 +1,7 @@
 title: "AllSpec"
 description: "Plataforma integral para el tratamiento de datos espectroscópicos."
-url: "https://guillermo-rr.github.io/AllSpec.github.io/"  
+url: "https://guillermo-rr.github.io/AllSpec"
+baseurl: "/AllSpec" 
 author:
   name: "Guillermo Reyna Rodríguez"
 
