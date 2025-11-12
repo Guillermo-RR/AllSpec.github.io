@@ -157,8 +157,8 @@ Las siguientes imágenes muestran algunos resultados generados directamente por 
 
 ## 🔗 Recursos
 
-- [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)
-- [Guía de instalación (PDF)](assets/docs/Instalacion.pdf)  
+- [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf){:target="_blank"}
+- [Guía de instalación (PDF)](assets/docs/Instalacion.pdf){:target="_blank"}  
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)
 
 <p align="center" style="margin-bottom:10px;">
