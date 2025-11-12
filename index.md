@@ -160,13 +160,18 @@ Las siguientes imágenes muestran algunos resultados generados directamente por 
 - [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)
 - [Guía de instalación (PDF)](assets/docs/Instalacion.pdf)  
 - [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)
-  
+
+<p align="center" style="margin-bottom:10px;">
+  Si encuentras útil AllSpec, puedes apoyarnos con una donación vía PayPal.
+</p>
+
 <p align="center">
-  <a href="https://paypal.me/grrAllSpec?locale.x=es_XC&country.x=MX" 
-     class="download-btn" target="_blank" style="padding:12px 25px;">
-    Apoya AllSpec vía PayPal
+  <a href="https://paypal.me/grrAllSpec?locale.x=es_XC&country.x=MX" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" 
+         alt="Apoya AllSpec vía PayPal" style="height:38px;">
   </a>
 </p>
+  
 
 ---
 
