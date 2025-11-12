@@ -4,7 +4,8 @@ url: "https://guillermo-rr.github.io/AllSpec"
 baseurl: "/AllSpec" 
 author:
   name: "Guillermo Reyna Rodríguez"
-
+  bio: "Licenciado en Química especializado en ciencia de los nanomateriales y espectroscopía."
+  links: []
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
@@ -29,12 +30,6 @@ nav:
 
 logo: "/assets/images/logo.png"
 
-author:
-  name: "Guillermo Reyna Rodríguez"
-  bio: "Licenciado en Química especializado en ciencia de los nanomateriales y espectroscopía."
-  links:
-
-
 footer:
   links:
     - label: "GitHub "
@@ -48,7 +43,6 @@ footer:
       url: "https://www.researchgate.net/profile/Guillermo-Reyna-Rodriguez"
     - label: "Licencia MIT "
       url: "https://github.com/Guillermo-RR/AllSpec/blob/main/LICENSE"
-
   copyright: "© 2025 Guillermo Reyna Rodríguez. Powered by Jekyll & Minimal Mistakes."
 
 # Configuración de layout amplio para todo el sitio
@@ -60,12 +54,11 @@ defaults:
       layout: single
       classes: wide
 
-# === Importar CSS personalizado ===
+# Importar CSS personalizado
 sass:
   style: compressed
 
-#include:
-  - assets/css
 include:
   - _includes
   - assets
+
