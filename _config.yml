@@ -63,5 +63,8 @@ defaults:
 sass:
   style: compressed
 
-include:
+#include:
   - assets/css
+include:
+  - _includes
+  - assets
