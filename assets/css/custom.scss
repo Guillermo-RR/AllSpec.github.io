@@ -40,7 +40,8 @@ h1, h2, h3, h4, h5, h6 {
 /* ---------------------------
    Botón de descarga guinda
 --------------------------- */
-.download-btn {
+.download-btn,
+.btn--maroon {
   background-color: #800020 !important;
   color: #ffffff !important;
   padding: 12px 25px;
@@ -53,7 +54,8 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   transition: background-color 0.3s ease;
 }
-.download-btn:hover {
+.download-btn:hover,
+.btn--maroon:hover {
   background-color: #a00030 !important;
 }
 
@@ -67,6 +69,8 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
   text-align: justify !important;
   font-family: 'Roboto', sans-serif;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }
 
 /* Encabezado y pie */
@@ -126,27 +130,13 @@ blockquote {
   text-decoration: underline;
 }
 
-/* Botones adicionales */
-.btn--maroon {
-  background-color: #800020;
-  color: #fff !important;
-  border-radius: 6px;
-  padding: 10px 20px;
-  font-family: 'Montserrat', sans-serif;
-}
-.btn--maroon:hover {
-  background-color: #a00030;
-}
-
-/* Espaciado de contenido */
-.page__content {
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
-
-/* Ocultar por completo la barra superior del tema */
-.site-header {
+/* Ocultar título duplicado en la página principal */
+.page__title {
   display: none !important;
 }
 
+/* Ocultar por completo la barra superior del tema si quieres mantener tu diseño limpio */
+.site-header {
+  display: none !important;
+}
 
