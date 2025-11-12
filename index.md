@@ -159,7 +159,14 @@ Las siguientes imágenes muestran algunos resultados generados directamente por 
 
 - [Manual de usuario (PDF)](assets/docs/Manual_AllSpec.pdf)
 - [Guía de instalación (PDF)](assets/docs/Instalacion.pdf)  
-- [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)  
+- [Repositorio GitHub](https://github.com/Guillermo-RR/AllSpec)
+  
+<p align="center">
+  <a href="https://paypal.me/grrAllSpec?locale.x=es_XC&country.x=MX" 
+     class="download-btn" target="_blank" style="padding:12px 25px;">
+    Apoya AllSpec vía PayPal
+  </a>
+</p>
 
 ---
 
